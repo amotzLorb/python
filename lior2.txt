@@ -1,0 +1,5 @@
+lior2.txt
+this is the secound file
+echo lior.txt >> lior2.txt 
+ok we started editing 
+secound line
